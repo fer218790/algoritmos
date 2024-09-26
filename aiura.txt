@@ -1,0 +1,3 @@
+Repositorio donde subiré ejercicios de algoritmos y estructura de datos resueltos.
+
+Inicio: 26/09/24
