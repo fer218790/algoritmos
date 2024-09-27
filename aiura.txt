@@ -1,3 +1,2 @@
-Repositorio donde subiré ejercicios de algoritmos y estructura de datos resueltos.
-
+Repositorio donde subiré ejercicios de algoritmos y estructura de datos, resuelto en PSeInt.
 Inicio: 26/09/24
